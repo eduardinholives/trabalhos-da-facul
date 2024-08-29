@@ -1,0 +1,238 @@
+1 o BPmn padroniza a forma de modelar um fluxo de processo de négocio,atraves de elementos com objetivos e de facil leitura por quem conhece a linguagem.baseado nos elemntso BPMN , avalie as afiirmacoes a seguir
+I as psicinas sao respresentadas por uma caixa retangular e agem como um container para os objeos do fluxo de um participante no processo
+II uma piscina contem um unico processo.
+III a raia é uma sudivisão dentro da psicina para organizar as atividades
+
+Resposta:B todas as afirmativas estao corretas
+
+2 os fluxos de daods transportam dados entres os componentes do DFd ,ou seja é possivel encontrar fluxos de dados movimentando dados:de processo para processo,de entidade para processo e de depositos de dados para processo
+
+baseado nisso,avalie as asserçoes abaixo:
+I fluxo interno, ocorre entre entidade e processo.
+PORQUE
+II fluxo externo:entre dois processos
+
+resposta:E as duas asserçoes sao falsas
+
+3 a TI ampla e oferrece oportunidades para area de trabalho,tais como analise de sistema,codificacao, banco de dados, entre outras.o analista de sistemas é um papel fundamental no desenvolvimento do sofwtare
+
+Resposta:A o analista de sistemas projeta uma solução para implementar os requisitos levantandos, baseada na arquitetura definida pelo arquiteto de sofwtare, gerando modelos e documentos que serao utilizados pelos progamadores na construção do sofwtare
+
+4 Para identificar um processo é preciso antes saber quais sao suas carecteristicas . de acordo com ogunnaike e ray, as principais carcteristicas de um processo sao:
+I processo é uma junção de atividades e recursos
+IIprocesso tem entranda e processamento, para gerar um resultado como saida
+III processo é uma organização de tarefas, sem se preocupar com a ordem correta ou quem executa cada tarefa
+
+Resposta: B apenas I e II
+
+5 é preciso identificar e entender o funcionamneto dos processos para conseguir identificar falhas ou potnos de melhoria. para que todos os envolvidos consigam entender o processo modelado, é preciso uusar uma linguagem unica de facil leitura e compreensão de todos.
+
+baseado nisso, avalie as asserçoes abaixo
+
+I BPM é uma das tecnicas ou disciplinas mais utilizadas atualmente para modelar e fazer a gestão dos processos de negocios
+
+porque
+
+II possui uma linguagem unica que padroniza a forma de modelar oo fluxo dos processos de negocio, de forma a facilitar a leitura e o entendimento sobre o funcionamento do processo
+
+Resposta: C as duas asserções sao verdadeiras e a II complementa a I
+
+6 os casos de uso sao usados para detalhar os requisitos em projetos que seguem a metodologia tradicional de desenvolvimento de software.as estorias de usuarios sao usadas para explicar o funcionamento dos requisitos em projetos que seguem a metodologia agil de desenvolvimento de software
+
+baseado nisso respona
+
+I tanto nas metodologias tradicionais quantos nas metodologias ageis o foco da descrição dos requisitos esta no seu funcionamento detalhado e completo, do inicio ao fim independente de quem estara usando.
+II nas metologias tradicionas o foco da construção de um software esta no entedemiento das funcionalidades
+III nas metologias ageis, o foco da construção de um softare esta na experiencia do usuario, no comportamento do software, em como para que os usuarios vao utiliza-lo.
+
+Resposta:E apenas as afirmações II e III estao corretas
+
+7 a notação BPMN que é usuada para modelar processos, possui varios elementos que facilitam a leitura e o entedimento do fluxo mostrando como o processo ocorre. os elementos , quanto mais especilizados forem mais facil sera o  entendimento do software que ira automatizar o processo modelado
+
+as tarefas em um processo podem assuim varios formatos. tais como:
+
+1.tarefa do tipo serviço
+2.tarefa de usuario
+3.tarefa script
+4.tarefa do tipo envio ou recebimento
+
+relacione cada elementos com seu objetivo , respectivamente
+
+()é uma taefa que pode ser executada pelo sistema no momento de um processamento ou durante a noite
+()é uma tarefa que sera executada atraves de um software
+()e uma tarefa relacionada com mensagens extreernas ao sistema
+()é uma tarefa que não é completamente automatica
+
+resposta:D (3,1,4,2)
+
+
+8 o caso de uso, é um documento muito importante ferado na fase de analise do ciclo de vida de desenvolvimento de software. ele serve para documentar como uma funcionlaidae deve se comprotar, atraves de um conjunto de passos que explicam o que o software ter a que fazer para executar a funcionalkidade de forma correta.
+
+analise as afirmaçõe a seguir marque v as verdadeiras e com f as falsa
+
+()o fluxo de exceção de uma caso de uso documenta , em passos, as funções que nao fazem parte do fluxo principal, mas estao disponiveis para o usuario executar
+()o fluxo de exceção é o fluixo onde se tratra ,em um conjunto de passos,tudo o que nao faz parte do camin ho nomral ou esperado para o caso de uso, como a validação de digitação de um cpf erado. pro exemplo
+()o fluxo principal de um caso descreve um caso de uso descreve todas as regras de negocio relacionadas ao software como um todo, cerntralizado as informações para facilitar o genrenciamento
+()o fluxo alternativo descreve qual o passo a passo para o tratamento de problemas oiu sistuações fora do nomral
+
+resposta:E (V,F,F,V)
+
+9 o DFD mostra logica das funcionalidades e nao parte fisica da sua implementação, exatamente porque foca na analise e nao no projeto. a criaação de um DFD envolve varios passos>
+
+analise os passos a seguir e marque com v as verdadeiras e com f as falas
+
+()os processos devem ser numerados, para facilitar a referencia a eles em uma documentação escrita
+()modelar DFDs grandes e complexos, para mostrar o software como um todo e seus fluxos completos
+()os DFDS devem ser estruturados em um so nivel, mostando o software todo de uma unica vez, para facilitar o entendimento do todo
+()os componentees de um DFD devem ter nomes significativos, e forma a facilitar o entedimento sobre o que cada componente faz
+
+resosta:E (V,F,F,V)
+
+10 o diagram de fluxo de dados,oui DFD é uma das ferramentas mais utilizadas na analise estruturada para comprender como se comporta o fluxo dos dados do software
+
+baseado nos conceitos sobre DFD, avalie as afirmações a seguir
+
+I o DFD ajuda a comprender e analisar o fluxo de dados dentro do proprio sistema
+II o DFd ajuda a comprender o fluxo de dados com o mundo exterior e do mundo exterior com o sistema
+III o DFD possui uma reprersentação em rede que msotra as funcionalidades que o sistema deve entrgar e os dados interligam estas funcionalidades
+
+resposta:B todas as afirmações estao corretas
+
+11 a notação BPMN , que é usuada para modelar processos,possui varios elementos que facilitam a leitura e o entedimento do fluxo, msotrando como processo ocorre.alguns desses elementos são:
+
+1 evento de inico e evento de fim
+2 atividades ou tarefas
+3 fluxo de sequencia
+4gateway
+
+relacione cada elementos com seu objetivo, respectivamente
+
+()tem como objetivo representar um trabalho realizado em uma etapa do processo de negocio
+()tem como objeitvo partir de um unico elemento e apontar para um outro elemento uncio
+()tem como objetivo separar ou juntar os diferentes caminuos de um processo, dependendo de decisoes tomadas.
+() cada processos pode ter mais de um e tem como objetivo mostrar qual ator responsavel e como se inicia e se finaliza o processo
+
+resposta: E(2,3,4,1)
+
+12 o principal objetyivo de organiar o DFd em niveies é msotrar o diagram de fluxo de dados de nivel mais macro ate o nivl mais detalahdo
+
+baseado nisso, avalie as afiramaçoes a seguir
+
+Ios DFD de niveis intermerdiarios sao parte descrita dos diagramas, onde o detalhamento das funcionalidades ocorree de maneira clara e direta para facilitar o entendimento de todos.
+II o DFD de contexto é simples,poeque nao detalha nenhum dos processo do sistema, mas da uma visão do todo e dos principais relacionamentos.
+III o DFD de nivel zero representa a visão de mais alto nivel das principais funções do sistema bem como as principais interfaces entre essas funcionalidades
+
+resposta: E apenas as afirmações II e III estao corretas
+
+13 ao longo do tempo um grande numero de metodos de modelagem de analise foi definido e utilizado. cada um dos metodos de analise possui ponto de vista unica,com foco e objetivos proprios, mas todos os metodos enconmtrados na literatura possuem principios claros e relacionados
+
+alguns destes princripios são
+
+I o dominio de informção rrelacionado com o software a ser construido precisa ser representado e entendido
+II o comportamento do soiftware precisa ser representado
+III os modelos que mostram informaões, funcionalidade e comportamento devem mostrar todas as caracteristicas em uma unica camada
+
+resposta: B apenas I e II
+
+15segundo pressman,"entender os requisitos de um problema esta entre as tarefas mais dificeis enfrentadas por um engenheiro de software"
+
+baseado nesta afirmação, marque a opção que melhor definae o que é um requisto de software:
+
+resposta: A os requistos definem o que o sistema deve fazer para satisfazer as necessidade do usuarios
+
+16 o DFD possui uma representação em rede, que mostra as funcionalidades que o sistema deve entregar e os dados que interligam estas funcionalidades. o DFD é composto por elemento que mostram graficamente as funcionalidades do sistema
+
+os elementos mais utilizados em DFD sao
+
+1 processos
+2 fluxo de dados
+3 deposito de dados
+4 entidades
+
+relacione cada elementso com seu objetivo
+
+() mostra a logica e nao a parte fisica do dado em si
+()mostra as funcionalidades que o software deve executrar
+()mostra coisas pessoas ou um outro sistema que tenha interface com o siustema que esta sendo modelado
+()mostra o caminho por onde passam os dados
+
+resposta: D(3,1,4,2)
+
+16 o coneceito de objeto é fundamental para entender como funciona a orientação a objetos. mas tambem e preciso entender alguns outros concetios importante na orientação a objetos, tais comos abstração, encapslumaento e herança. baserado na orientação a objetos avlaies as afiramaçõe a seguir
+
+I a abstração consiste em se concentrar nos aspectos essenciais, proprios de uma entidade e em ifnorar em suas propriedades acidentais
+III o encapsulamento consiste na separação dos aspectos externos de um objeto acessiveis pro outro objetos, dos detalhes internos da implementaação daquele objeto, que ficam ocultos dos demasi objetos
+III a henraca concsiste no compartilhamento de atributos e operações entre objetos com, base em uma relacionamento hierarquico
+
+resposta:B todas as afirmações estao corretas
+
+17 um modelo de processo de desenvolvimento de software , ou um simplesmente modleo de processo, pode ser visto como uma representação ou abstração dos objetos e atividades envolvidas no processo de software. algumas facilidades que podem ser alcançadas pela modealgem do software sao:
+I os modelos ajudam a visualizar o sistema como ele ´ou como desejamos que seja. mostrando visualmente suas interfaces e funcionamento
+II os modelos permitem especificar a estrutura ou o corptamento de um sistema
+III os modelos ajudam a gerencia o projeto organizando toodos os recursos necessarios para entrengar um projeto de software
+
+resposta:B apenas I e II
+
+ 18 o MVC funciona como um padrao de arquitetura de software que melhora a conexão entre as camdas de dados, seprando as camadas logicas de negocio da camada de interação com o usuaruo. baserado nos conceitos estudados sobre diagrama de classes, marque com v as verdadeirs e com f as falsas
+() a arquitetura MVC e uma boa pratica pois modela as classes de um software organizando todos os relacionamentos
+() a arquitetura MVc e uma boa pratica pois organiza a cosntrução do software e agrega segurança ao codigo
+() o computador do usuario e a camada mais externa do software de onder o usuario inicia a interação com o software e de onder partem as solicitações e pra onde chegam as respostas
+()o computador do usuario e a camda onde se concentra o processamento do software as regras de negocio em si
+
+resposta:D (F,V,V,F)
+
+19 no desenvolviemnto de softaware a orientação a objetos e vista como um conceito de engenharia de software onde os elemtnso de uma solução sao representados como objetos no desnevolviemtno de sistemas tratamos a orientação a objetos como um paradigma de programação ou seja como uma forma de se implementar um codigo
+
+baserado nisso avalie as asserções abaixo:
+
+I todo objeto é identificavewl e deve ter um nome claro e direto, que identifique o real objetivo do objeto
+
+porque
+
+II as coisas do mundo abstrato do sftware e sua tecnologia sao denominadas de objetos
+
+respostas:D a asserção I é verdadeira e a II é falsa
+
+20 racionio utilizado para modelar um diagram de classe e entender logicamente o funcionmaneto dos rqequisistos pensando nas classes envolvidas e qual o papel de cda uma no  software como um todo o diagrama de classe  é formado por elemento que ajudam a entender seu obvjetivo analise as afiramaçoes a seguir e marque com v as verdadeiras e com f as falsas
+()classe sao objetos do mundo real que estao relacionados com o escopo do software a ser consturido
+()os metodos sao as açoes que estao sob responsabilidade de cada um dos relacionamento
+()so existe um tipo de relacionamento que mostra uma classe esta relacionada com outra classe
+() os relacionamento mostram como as classes trocam informação entre si
+
+rewsposta:E (V,F,F,V)
+
+20 os diagramas de classe sao fundamentais para o processo de modelagem de objetos e modelam a estrutura estatica de um sistema dependendo da compleixdfade de um sistema é possivel utilizar um unico diagram de classe para modelar um sistema inteiro ou varios diagramas de classe para modelar os componenetes de um sistema.baseado nos diagrmar de classe,avalie as afirmaçoies a seguir
+
+
+I o diagrama de classe mostra todas as classe de um software e os relacionamento entre elas
+II a modelagem das classes esta totalmente relacionada com os conceitos de orientação a objetos
+III o objeto e uma represnetação do mundo real e a classe  e uma representação do mundo virutal e da tecnologia
+
+reposta:B apenas I e II
+
+21 o diagrama de classe mostra todoas as classe de um software e os relacionamentoes entre eleas a modelagem das classes esta totalmente relacionada com os concetios de orientação a objetos baseado nesta afiramção marque a opção que melhor defeine o que é a abstralção no conceito de orientação a objetos
+
+resposta:A tem o foco em aspectos relevantes para um determinado proposito abstraindo os demais elementos que nao sao importante para a situção que se esta modelando
+
+22a orientação a objetos é um processo conceitual indepnetende uma linguagem de programação pois tem como foco visualizar o dominio do problema a ser automatizado como uma coleção de objetos e metoso a associados
+
+marque a opção que melhor define o que sao objetos, no conceito da orientaçao a objetos
+
+reposta:C um objetos é uma entidade real ou abstrtata, que modela um conceito presente na realidade humana, ocupando espaço fisico ou logico
+
+23 fazer software não e algo trivial.é poreciso entender a necessidade do cliente, transformar isso em requisitos e traduzir os requisitos em lingugagem tenica, que sera codificada em uma linguagem de programação, gerando um sistema que sera usado pelos usuarios para entener bem que o que o usuario precisa e possivel utilizar a uml para modelar vairos tipos de diagramas diferentes
+
+resposta: C o diagrama de componenetes mostra os componenewtees de programação de alto nivel.este diagrama busca modelar as classe deverao ser organizadas fisicamente no ambiente de desenvolvimento
+
+24 o diagrama de atiividades msoitra as atividades as mudanças de uma atividade para outracom os eventos ocorridos em alguam parte do siustema e ajuda a compreender o fluxo dfe controle de uma atividade para outra o diagrama de atividades e composto por alguns elementos tais como
+
+1 estado inical
+2 atividades
+3 transição
+
+relacione cada elementos com sua função no diagram de atividades, respectivamente:
+()sao as ações que devem ser executadas
+()e o cmainho a ser seguido ao longo de todo o fluxo do processo, ate sua conclusão
+()e o incio do processo em si
+
+repostas:E(2,3,1)
